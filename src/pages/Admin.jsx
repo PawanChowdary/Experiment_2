@@ -15,12 +15,12 @@ const Admin = () => {
 
         <tbody>
           <tr>
-            <td>Phulchand</td>
+            <td>Pavan</td>
             <td>Admin</td>
             <td>Active</td>
           </tr>
           <tr>
-            <td>Rahul</td>
+            <td>Rohith</td>
             <td>User</td>
             <td>Blocked</td>
           </tr>
