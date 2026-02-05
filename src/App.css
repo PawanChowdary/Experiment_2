@@ -1,0 +1,57 @@
+.page {
+  padding: 90px 40px;
+  min-height: 100vh;
+  background: #f5f6fa;
+}
+
+/* Landing */
+.hero {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.primary-btn {
+  padding: 12px 24px;
+  background: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 6px;
+}
+
+.features {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+/* Dashboard */
+.stats {
+  display: flex;
+  gap: 20px;
+}
+
+.stat-card {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  width: 200px;
+}
+
+/* Admin */
+.admin-table {
+  width: 100%;
+  background: white;
+  border-collapse: collapse;
+}
+
+.admin-table th,
+.admin-table td {
+  padding: 12px;
+  border: 1px solid #ddd;
+}
